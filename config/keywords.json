@@ -1,0 +1,142 @@
+{
+  "monitoring_keywords": {
+    "production_supply_chain": {
+      "description": "Keywords related to palm oil production and supply chain",
+      "keywords": [
+        "Tandan Buah Segar",
+        "TBS",
+        "bibit sawit",
+        "pupuk sawit",
+        "petani plasma",
+        "petani swadaya",
+        "Peremajaan Sawit Rakyat",
+        "PSR",
+        "kebun sawit",
+        "lahan sawit",
+        "Hak Guna Usaha",
+        "HGU",
+        "Pabrik Kelapa Sawit",
+        "PKS",
+        "hama sawit"
+      ],
+      "context_keywords": ["sawit", "kelapa sawit", "palm oil"],
+      "exclude_keywords": ["resep", "masak", "memasak", "kuliner", "bumbu", "gorengan", "menggoreng", "makanan", "dapur"]
+    },
+    "products_derivatives": {
+      "description": "Keywords related to palm oil products and derivatives",
+      "keywords": [
+        "Crude Palm Oil",
+        "CPO",
+        "Palm Kernel Oil",
+        "PKO",
+        "CPKO",
+        "Biodiesel",
+        "B35",
+        "B40",
+        "B50",
+        "FAME",
+        "minyak curah",
+        "minyakita",
+        "oleokimia",
+        "refineri sawit",
+        "hilirisasi sawit"
+      ],
+      "context_keywords": ["sawit", "kelapa sawit", "palm oil", "minyak"],
+      "exclude_keywords": []
+    },
+    "market_policy": {
+      "description": "Keywords related to market dynamics and policy",
+      "keywords": [
+        "Harga CPO",
+        "Harga TBS",
+        "ekspor sawit",
+        "bea keluar sawit",
+        "pungutan ekspor",
+        "BPDPKS",
+        "Domestic Market Obligation",
+        "DMO",
+        "Domestic Price Obligation",
+        "DPO",
+        "Satgas Sawit",
+        "Bursa CPO",
+        "EUDR",
+        "Undang-Undang Anti Deforestasi"
+      ],
+      "context_keywords": ["sawit", "kelapa sawit", "CPO"],
+      "exclude_keywords": []
+    },
+    "sustainability_environmental": {
+      "description": "Keywords related to sustainability and environmental concerns",
+      "keywords": [
+        "RSPO",
+        "ISPO",
+        "NDPE",
+        "deforestasi",
+        "kebakaran hutan",
+        "karhutla",
+        "lahan gambut",
+        "emisi karbon",
+        "limbah cair sawit",
+        "POME",
+        "konflik lahan",
+        "buruh sawit",
+        "pekerja anak",
+        "boikot sawit",
+        "kampanye hitam",
+        "Greenpeace",
+        "Walhi",
+        "Sawit Watch"
+      ],
+      "context_keywords": ["sawit", "kelapa sawit", "palm oil", "CPO"],
+      "exclude_keywords": []
+    }
+  },
+  "media_sources": {
+    "indonesian_national_media": [
+      "kompas.com",
+      "detik.com",
+      "tribunnews.com",
+      "cnnindonesia.com",
+      "metrotvnews.com",
+      "antaranews.com",
+      "berita-satu.com",
+      "okezone.com",
+      "kumparan.com"
+    ],
+    "indonesian_regional_media": [
+      "sumatratoday.com",
+      "kalimantantoday.com",
+      "suluhnusantara.com"
+    ],
+    "international_media": [
+      "reuters.com",
+      "bloomberg.com",
+      "ft.com",
+      "bbc.com",
+      "apnews.com"
+    ],
+    "journals": [
+      "sciencedirect.com",
+      "nature.com",
+      "springer.com",
+      "tandfonline.com"
+    ],
+    "social_media": {
+      "linkedin": "api",
+      "facebook": "api",
+      "instagram": "api"
+    }
+  },
+  "sentiment_categories": [
+    "positive",
+    "negative",
+    "neutral",
+    "mixed"
+  ],
+  "priority_levels": [
+    "critical",
+    "high",
+    "medium",
+    "low"
+  ]
+}
